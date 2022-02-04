@@ -1,6 +1,7 @@
 # BanditRun
 SEIR 0124
-[IMG_0253](https://user-images.githubusercontent.com/97129216/152478765-771a4954-960d-4013-ba26-ee8bef371bc9.jpg)
+![IMG_0253](https://user-images.githubusercontent.com/97129216/152478862-cf76b258-7619-44ce-8610-11a8cfc34e28.jpg)
+
 
 ==BANDIT RUN====ELEVATOR PITCH==
 
