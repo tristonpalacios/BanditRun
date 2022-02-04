@@ -1,11 +1,11 @@
 # BanditRun
 SEIR 0124
-
-![Untitled_Artwork 6](https://user-images.githubusercontent.com/97129216/152477994-e49dd7fe-bd69-46c3-8357-3ecc9ba38d7f.png)
+[IMG_0253](https://user-images.githubusercontent.com/97129216/152478765-771a4954-960d-4013-ba26-ee8bef371bc9.jpg)
 
 ==BANDIT RUN====ELEVATOR PITCH==
 
-if you're looking for an obstacle platformer made in canvas, look no further. With Bandit run, you the bandit will make your valiant get away from the police for as long as you can! The further you run the more your accomplices can get while the police are distracted by you!!!
+if you're looking for an obstacle platformer made in canvas, look no further. With Bandit run, you the bandit will make your valiant get away from the police for as long as you can! The further you run the more your accomplices can get while the police are distrac!
+ted by you!!!
 
 Watch out while running for dangerous obstacles! And ofcourse ! If you go too slow there is a cop who is nipping at your heels that will catch you!!!!
 
